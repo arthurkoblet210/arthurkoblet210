@@ -84,18 +84,6 @@
 
 
 <div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/SacredShiner/SacredShiner/blob/main/divider1.png"><img src="https://github.com/SacredShiner/SacredShiner/raw/main/divider1.png" alt="divider" style="max-width: 100%;"></a>
-</div> 
-
-<p align="center" dir="auto">
-  <a href="mailto:sacredshiner@gmail.com"><img src="https://camo.githubusercontent.com/847135ce7310068c2b45c8d6c7a80d3d71b17a77eaad08f35bc11b4e11573410/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f32782f676d61696c2d6e65772e706e67" width="50" data-canonical-src="https://img.icons8.com/fluency/2x/gmail-new.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/w9TMQCH1igKg" rel="nofollow"><img src="https://camo.githubusercontent.com/30090fa63511942cf8a2862be0161d0fd62d620b45024068bcbf90e1ef73dc0e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f736b7970652e706e67" width="50" data-canonical-src="https://img.icons8.com/color/2x/skype.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/SacredShiner" rel="nofollow"><img src="https://camo.githubusercontent.com/b15338a48af40464f4a6d713afda17e6312ac5a86952ba778c831332423c40d7/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f74656c656772616d2d6170702e706e67" width="50" data-canonical-src="https://img.icons8.com/color/2x/telegram-app.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a href="https://sacredshiner.netlify.app" rel="nofollow"><img src="https://camo.githubusercontent.com/caf9fc6911297c23e8348c137d21adfd7f094f68896f0f16bf48460f6e8e9cec/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f32782f6c696e6b2e706e67" width="50" data-canonical-src="https://img.icons8.com/nolan/2x/link.png" style="max-width: 100%;"></a>
-</p>
 <h2 align="center" dir="auto"><a id="user-content--thanks-for-visiting-my-profile-" class="anchor" aria-hidden="true" tabindex="-1" href="#-thanks-for-visiting-my-profile-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a> Thanks for visiting my profile. </h2>
 <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/050c345844964c5d0ba6bfb574e5d0a79c61b1afcbc91c57ab311bc523c318a7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"><img src="https://camo.githubusercontent.com/050c345844964c5d0ba6bfb574e5d0a79c61b1afcbc91c57ab311bc523c318a7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=65&amp;section=footer" style="max-width: 100%;"></a>
