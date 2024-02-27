@@ -5,7 +5,7 @@
   Full Stack &amp; Mobile Developer.
 </h3>
 <div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/SacredShiner/SacredShiner/blob/main/divider1.png"><img src="https://github.com/SacredShiner/SacredShiner/raw/main/divider1.png" alt="divider" style="max-width: 100%;"></a>
+  <div href="https://github.com/SacredShiner/SacredShiner/blob/main/divider1.png"><img src="https://github.com/SacredShiner/SacredShiner/raw/main/divider1.png" alt="divider" style="max-width: 100%;"></div>
 </div> 
 <h3 align="center" dir="auto"><a id="user-content--tech--tools" class="anchor" aria-hidden="true" tabindex="-1" href="#-tech--tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/SacredShiner/SacredShiner/blob/main/code.gif" data-target="animated-image.originalLink" hidden=""><img src="https://github.com/SacredShiner/SacredShiner/raw/main/code.gif" height="20" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player">
@@ -25,11 +25,11 @@
               <rect x="9" y="2" width="3" height="12" rx="1"></rect>
             </svg>
           </button>
-          <a data-target="animated-image.openButton" aria-label="Open in new window" class="AnimatedImagePlayer-button" href="https://github.com/SacredShiner/SacredShiner/blob/main/code.gif" target="_blank">
+          <div class="AnimatedImagePlayer-button">
             <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
               <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
             </svg>
-          </a>
+          </div>
         </span>
       </span></animated-image> Tech &amp; Tools</h3>
 <div align="center" dir="auto"> 
